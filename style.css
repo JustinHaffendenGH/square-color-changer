@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#square {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border: 10px solid;
+    border-color: white;
+}
+
+#square-2 {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border: 10px solid;
+    border-color: white;
+}
